@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OperacionesApp</string>
+    <string name="first_number">Primer numero</string>
+    <string name="second_number">Segundo numero</string>
+    <string name="add">Sumar</string>
+    <string name="subtract">Restar</string>
+    <string name="multiply">Multiplicar</string>
+    <string name="divide">Dividir</string>
+    <string name="non_applicable_operation">La operacion no puede ser realizada</string>
+    <string name="fill_all_fields">Rellene ambos campos para continuar</string>
+    <string name="result">El resultado es: %1$s</string>
+</resources>
