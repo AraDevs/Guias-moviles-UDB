@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DescuentosApp</string>
+    <string name="name">Nombre</string>
+    <string name="worked_hours">Horas trabajadas</string>
+    <string name="calculate_salary">Cacular salario</string>
+    <string name="isss_result">El descuento de ISSS es:  %1$s</string>
+    <string name="afp_result">El descuento de AFP es:  %1$s</string>
+    <string name="rent_result">El descuento de RENTA es:  %1$s</string>
+    <string name="salary_result">El salario base es:  %1$s</string>
+    <string name="perceived_salary_result">El salario percibido es:  %1$s</string>
+    <string name="invalid_int">Ingrese un numero entero valido</string>
+</resources>
