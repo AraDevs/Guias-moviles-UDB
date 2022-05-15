@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Guia04</string>
+    <!-- Buttons -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <!-- Auth -->
+    <string name="newAccount">Register new account</string>
+    <string name="accountLogin">Account login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="welcome">¡Bienvenido!</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guia4-1</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="phone">Telefono</string>
+    <string name="age">Edad</string>
+    <string name="add">Agregar/Actualizar</string>
+    <string name="get_by_id">Consultar por codigo</string>
+    <string name="delete">Eliminar registro</string>
+    <string name="id">Codigo (Solo consulta)</string>
+</resources>

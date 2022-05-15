@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295795701754",
+    "firebase_url": "https://realtimedatabase-41154-default-rtdb.firebaseio.com",
+    "project_id": "realtimedatabase-41154",
+    "storage_bucket": "realtimedatabase-41154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295795701754:android:630e6e245f50a7b6095643",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.guia04realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295795701754-3tlslfj5ip9rgn5ue7irr0pgfgslp01b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxH_3eX1hxn3VM8oFLK9s7N6_SraViesY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295795701754-3tlslfj5ip9rgn5ue7irr0pgfgslp01b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
